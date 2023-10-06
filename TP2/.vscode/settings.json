@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "liste.c": "cpp",
+        "graphe.h": "c",
+        "liste.h": "c",
+        "cellule.h": "c"
+    }
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3292749ce569f648880880a8c06e357
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pivot: {fileID: 8177913985805220143, guid: 7468dbe117c10194990c5f9fac6b63fb, type: 3}
+  - chariot: {fileID: 6546421672808267180, guid: 1b59045b4b06f754c9e2d3d6fa20dff8, type: 3}
+  - moufle: {fileID: 1890173484435469057, guid: 2db5168544957944f82fdb0cad4f63c1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
